@@ -23,7 +23,7 @@ This project automates the process of scraping tagged post URLs from a specified
 
 2. **Install required Python libraries**:
    ```bash
-   pip install selenium webdriver-manager
+   pip install requirements.txt
 Here’s how you can add the provided context to your `README.md` file in a clean, properly formatted way using Markdown syntax:
 ---
 # 🧪 How to Run
