@@ -57,5 +57,3 @@ This script is for educational and personal use only.
 
 Automated scraping of Instagram may violate its terms of service. Use responsibly.
 
-```
-
