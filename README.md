@@ -24,9 +24,8 @@ This project automates the process of scraping tagged post URLs from a specified
    ```bash
    pip install selenium webdriver-manager
 Here’s how you can add the provided context to your `README.md` file in a clean, properly formatted way using Markdown syntax:
-
-````markdown
-## 🧪 How to Run
+---
+# 🧪 How to Run
 
 **Launch the Jupyter Notebook:**
 
@@ -60,5 +59,3 @@ Automated scraping of Instagram may violate its terms of service. Use responsibl
 
 ```
 
-You can copy and paste this directly into your `README.md` file. Let me know if you want to include any images, badges, or a setup guide too.
-```
