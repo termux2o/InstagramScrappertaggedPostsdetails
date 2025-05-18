@@ -9,6 +9,7 @@ This project automates the process of scraping tagged post URLs from a specified
 - Scrolls the page a custom number of times
 - Extracts and stores post URLs
 - Avoids duplicate entries by maintaining a CSV file
+- Fetching tagged users details like username,Followers,Bio,websites(if any)
 
 ## 📋 Prerequisites
 
