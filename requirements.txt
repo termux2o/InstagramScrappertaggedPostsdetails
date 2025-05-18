@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+pandas
+time
+csv
+re
+instagrapi
+json
+os
